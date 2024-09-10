@@ -1,7 +1,8 @@
 [
-  { "name": "Webpack", "description": "Module bundler" },
-  { "name": "Gulp", "description": "Task runner" },
-  { "name": "Parcel", "description": "Zero-config bundler" },
-  { "name": "Rollup", "description": "ES module bundler" },
-  { "name": "Grunt", "description": "Task automation" }
-]
+    { "name": "Webpack", "description": "Module bundler that compiles and bundles JavaScript files and other assets" },
+    { "name": "Babel", "description": "JavaScript compiler that converts ES6+ code into backward-compatible JavaScript" },
+    { "name": "ESLint", "description": "Linting tool for identifying and fixing problematic patterns in JavaScript code" },
+    { "name": "Sass", "description": "CSS preprocessor that extends CSS with variables, nested rules, and more" },
+    { "name": "Jest", "description": "JavaScript testing framework used for writing and running unit tests" }
+  ]
+  
