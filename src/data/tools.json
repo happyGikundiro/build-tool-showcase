@@ -1,0 +1,7 @@
+[
+  { "name": "Webpack", "description": "Module bundler" },
+  { "name": "Gulp", "description": "Task runner" },
+  { "name": "Parcel", "description": "Zero-config bundler" },
+  { "name": "Rollup", "description": "ES module bundler" },
+  { "name": "Grunt", "description": "Task automation" }
+]
