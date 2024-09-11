@@ -3,6 +3,9 @@
 ## Project Description
 This project demonstrates the use of various build tools and package managers.
 
+## Demo
+[click here](https://main--gamh-build-tool-showcase.netlify.app/)
+
 ## Setup Instructions
 1. Clone the repository
 2. Run `npm install` to install dependencies
